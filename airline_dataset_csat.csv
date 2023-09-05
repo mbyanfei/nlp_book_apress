@@ -1,0 +1,399 @@
+line,class,csat_fnl
+When can I web check-in?,check in,5
+want to check in,check in,5
+please check me in,check in,5
+check in,check in,5
+my flight is tomm can I check in,check in,5
+not able to check in,check in,5
+flight is next week want to check in,check in,5
+how to check in onine,check in,3
+check in online,check in,3
+check in before flight,check in,5
+checking in,check in,5
+can I e check in,check in,4
+check in 2 hours before?,check in,5
+I am flying on 26th of this month. Want to check in,check in,1
+I am flying 20th Monday can I check in now,check in,2
+"I am getting late to the airport, can I check in now",check in,5
+"please check me in, My PNR is 65321",check in,5
+please check in,check in,5
+checkin,check in,3
+check in,check in,5
+get me to check in,check in,5
+check in internet,check in,2
+what is free baggage allowance,baggage,4
+how much baggage,baggage,5
+I have 35 kg should I pay,baggage,2
+how much can I carry,baggage,5
+lots of bags I have,baggage,3
+till how much baggage is free,baggage,5
+how many bags are free,baggage,5
+upto what weight I can carry,baggage,4
+how much can I carry,baggage,5
+baggage carry,baggage,5
+baggage to carry,baggage,1
+number of bags,baggage,5
+carrying bags,baggage,3
+travelling with bags,baggage,2
+money for luggage,baggage,1
+how much luggage I can carry,baggage,4
+too much luggage,baggage,4
+have lots of luggage,baggage,1
+how much luggage I can carry,baggage,5
+carrying luggage,baggage,5
+cancel my booking,cancel,5
+cancel my tickets,cancel,5
+cancel tickets,cancel,2
+ticket cancellation,cancel,5
+I want to cancel my tickets,cancel,2
+I have a booking for the 24th of june. Want to cancel the booking,cancel,2
+how do I cancel my booking,cancel,4
+12th of dec my tickets are booked please cancel those,cancel,5
+03/mar/2017 is when my tickets are for. Need them to be cancelled,cancel,5
+last minute want to cancel,cancel,5
+cancelling tickets,cancel,3
+how do I cancel my reservation,cancel,5
+cancel reservation,cancel,2
+cancel booking,cancel,5
+want to cancel my booking,cancel,2
+Please cancel my booking,cancel,2
+not abel to login,login,5
+forgot password,login,2
+error while logging in,login,5
+login failed,login,4
+trying to login,login,4
+help me login,login,1
+log me in,login,5
+log in but error,login,5
+access account online,login,4
+forgot username,login,4
+not remembering username,login,3
+need to login,login,3
+want to login,login,5
+not remembering password,login,3
+what is username,login,4
+what is my password,login,3
+what is my username,login,5
+Hi,greetings,2
+Hello,greetings,5
+you there?,greetings,4
+I have an issue,greetings,5
+can you help,greetings,3
+hi there,greetings,5
+hello there,greetings,1
+hey,greetings,5
+hey there,greetings,1
+good morning,greetings,4
+good afternoon,greetings,5
+good evening,greetings,5
+good night,greetings,4
+goodmorning,greetings,4
+goodafternoon,greetings,3
+goodevening,greetings,4
+goodnight,greetings,4
+GM,greetings,5
+hello sir,greetings,5
+hello madam,greetings,5
+hello mam,greetings,5
+thanks,thanks,2
+thank u,thanks,5
+it was helpful,thanks,4
+very helpful,thanks,2
+good,thanks,3
+nice,thanks,1
+ok see you,thanks,2
+ok cool,thanks,5
+ok cool thanks,thanks,5
+ok thank u,thanks,5
+thanks,thanks,5
+thank u,thanks,5
+cool,thanks,5
+that’s helpful,thanks,5
+that’s really nice,thanks,4
+very good,thanks,5
+book a ticket,other,5
+payment issue,other,4
+alerts,other,4
+special assistance,other,1
+infants,other,5
+dogs,other,4
+general,other,3
+akslakalkd;lak;,other,5
+mmmm ppppp ooo,other,5
+abcddef,other,3
+billing issue,other,1
+flight which aircraft,other,5
+my mom ,other,3
+my dad,other,2
+celebrations,other,3
+text ,other,1
+birthdays,other,5
+insurance needed,other,5
+certificate,other,4
+EMlsBXgolj,other,5
+XeYDzYqQxH,other,5
+ShUOpiZeBX,other,2
+uvcvlJQLSn,other,3
+GPjYuYEkGu,other,2
+dBGIrwlKgG,other,4
+rCocWHMCSZ,other,3
+kKPakjyOFl,other,5
+wUUAaMgTKy,other,4
+jKiuPsgobH,other,2
+Air Canada Rouge,other,2
+the flight was,other,1
+in front of,other,5
+The food was,other,5
+on time and,other,3
+I had to,other,3
+one of the,other,2
+of the flight,other,4
+there was no,other,4
+with Air Canada,other,5
+at the airport,other,5
+on the plane,other,4
+it was a,other,5
+a lot of,other,3
+seat in front,other,5
+we had to,other,1
+on Air Canada,other,3
+All in all,other,1
+of the plane,other,4
+the cabin crew,other,5
+the seat in,other,2
+on the way,other,5
+a hour flight,other,2
+The flight was,other,5
+in business class,other,5
+on the flight,other,4
+the plane was,other,2
+in flight entertainment,other,5
+value for money,other,5
+the food was,other,4
+was on time,other,5
+from Toronto to,other,2
+The seats were,other,5
+front of me,other,4
+I will never,other,4
+the return flight,other,4
+flight was delayed,other,5
+I didn t,other,3
+the way back,other,3
+The plane was,other,2
+at the gate,other,3
+I don t,other,4
+the check in,other,5
+on the return,other,5
+were on time,other,5
+I had a,other,3
+I have flown,other,3
+will never fly,other,5
+and it was,other,5
+the flight attendants,other,3
+not abel to login,login,5
+forgot password,login,5
+error while logging in,login,3
+login failed,login,4
+trying to login,login,5
+help me login,login,3
+log me in,login,5
+log in but error,login,4
+access account online,login,2
+forgot username,login,2
+not remembering username,login,5
+need to login,login,5
+want to login,login,5
+not remembering password,login,5
+what is username,login,3
+what is my password,login,5
+what is my username,login,5
+not abel to login,login,5
+forgot password,login,4
+error while logging in,login,5
+login failed,login,3
+trying to login,login,3
+help me login,login,5
+log me in,login,2
+log in but error,login,5
+access account online,login,1
+forgot username,login,5
+not remembering username,login,5
+need to login,login,5
+want to login,login,5
+not remembering password,login,5
+what is username,login,4
+what is my password,login,5
+what is my username,login,3
+am not remembering username,login,5
+forgot my password,login,5
+not sure of my username,login,5
+please help me with my passowrd and username,login,5
+password,login,2
+password,login,4
+pwd,login,3
+password,login,2
+password,login,3
+pwd,login,3
+pwd,login,1
+pwd,login,5
+pwd,login,4
+pwd,login,3
+pwd,login,2
+pwd,login,5
+pwd,login,5
+pwd,login,1
+pwd,login,5
+pwd,login,5
+pwd,login,5
+pwd,login,3
+pwd,login,2
+pwd,login,3
+pwd,login,4
+pwd,login,2
+logging in,login,2
+trouble loggin in,login,4
+issues sign in,login,5
+signing in issues,login,3
+trouble with login,login,5
+login failed,login,4
+login issues,login,5
+logging in,login,5
+trouble loggin in,login,3
+issues sign in,login,5
+signing in issues,login,2
+trouble with login,login,4
+login failed,login,1
+login issues,login,4
+logging in,login,3
+trouble loggin in,login,4
+issues sign in,login,1
+signing in issues,login,5
+trouble with login,login,1
+login failed,login,4
+login issues,login,5
+logging in,login,4
+trouble loggin in,login,4
+issues sign in,login,5
+signing in issues,login,4
+trouble with login,login,4
+login failed,login,3
+login issues,login,2
+hi,greetings,5
+hi,greetings,5
+hi,greetings,3
+hi,greetings,5
+hi,greetings,1
+hi,greetings,3
+hi,greetings,4
+hi,greetings,2
+hi,greetings,5
+hi,greetings,4
+hi,greetings,1
+hi,greetings,2
+hi,greetings,5
+hi,greetings,5
+hi,greetings,4
+hi,greetings,3
+hi,greetings,5
+hi,greetings,4
+hi,greetings,5
+hi,greetings,5
+hi,greetings,4
+hi,greetings,3
+hi,greetings,2
+hi,greetings,4
+checkin,check in,4
+check in,check in,3
+checkin,check in,5
+check in,check in,5
+checkin,check in,3
+check in,check in,5
+checkin,check in,4
+check in,check in,4
+checkin,check in,5
+check in,check in,3
+checkin,check in,3
+check in,check in,3
+checkin,check in,5
+check in,check in,4
+checkin,check in,5
+check in,check in,4
+checkin,check in,5
+check in,check in,2
+checkin,check in,2
+check in,check in,5
+checkin,check in,4
+checkin,check in,3
+checkin,check in,5
+checkin,check in,4
+checkin,check in,1
+checkin,check in,5
+checkin,check in,5
+checkin,check in,4
+checkin,check in,1
+checkin,check in,3
+checkin,check in,5
+checkin,check in,4
+checkin,check in,5
+checkin,check in,5
+checkin,check in,3
+checkin,check in,5
+checkin,check in,4
+checkin,check in,5
+checkin,check in,4
+what is bagggage,baggage,4
+what is luggage,baggage,5
+what is baggage allowance,baggage,2
+allowance in baggange,baggage,5
+allowance in baggage,baggage,4
+baggage allowance,baggage,3
+free baggage,baggage,1
+free luggage,baggage,5
+what is bagggage,baggage,3
+what is luggage,baggage,5
+what is baggage allowance,baggage,5
+allowance in baggange,baggage,3
+allowance in baggage,baggage,4
+baggage allowance,baggage,5
+free baggage,baggage,4
+free luggage,baggage,5
+what is bagggage,baggage,5
+what is luggage,baggage,3
+what is baggage allowance,baggage,2
+allowance in baggange,baggage,4
+allowance in baggage,baggage,3
+baggage allowance,baggage,5
+free baggage,baggage,4
+free luggage,baggage,5
+what is bagggage,baggage,4
+what is luggage,baggage,5
+what is baggage allowance,baggage,4
+allowance in baggange,baggage,5
+allowance in baggage,baggage,2
+baggage allowance,baggage,3
+free baggage,baggage,3
+free luggage,baggage,3
+what is bagggage,baggage,5
+what is luggage,baggage,5
+what is baggage allowance,baggage,5
+allowance in baggange,baggage,3
+allowance in baggage,baggage,4
+baggage allowance,baggage,5
+free baggage,baggage,1
+free luggage,baggage,4
+what is bagggage,baggage,5
+what is luggage,baggage,4
+what is baggage allowance,baggage,1
+allowance in baggange,baggage,5
+allowance in baggage,baggage,5
+baggage allowance,baggage,4
+free baggage,baggage,3
+free luggage,baggage,3
+what is bagggage,baggage,2
+what is luggage,baggage,2
+what is baggage allowance,baggage,3
+allowance in baggange,baggage,3
+allowance in baggage,baggage,2
+baggage allowance,baggage,4
+free baggage,baggage,3
+free luggage,baggage,5
